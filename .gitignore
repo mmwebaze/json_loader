@@ -1,0 +1,4 @@
+*.iml
+.idea
+secrets.json
+resources/*

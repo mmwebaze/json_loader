@@ -1,0 +1,34 @@
+{
+  "dashlets": [
+    {
+      "id": "3",
+      "title": "Combined budget Execution",
+      "link": "analytics.json?dimension=dx\\:uIIG1x8zrbl.dDzmHStw6EV;iZvoVGoaISy.dDzmHStw6EV&dimension=pe\\:LAST_QUARTER&filter=ou\\:LEVEL-1",
+      "chartType": "Stackedv"
+    },
+    {
+      "id": "5",
+      "title": "Organizational Deadlines",
+      "link": "analytics.json?dimension=dx\\:UdcYdVEeRN7;tsLr3UWIlBm;RvoFu0HA0BB;ei4LFSGqx6y;YCWO5IXoMxM;l3kT5rHa605;L3BhXQSrZWT;yRqVsXIFOdf;gREj958plLs;Zyswqp9kn1A;INj0NcBnwkn&dimension=pe\\:NEXT_6_BIMONTHS&filter=ou\\:LEVEL-1",
+      "chartType": "table"
+    },
+    {
+      "id": "4",
+      "title": "Share of overall budget from Ordinary vs External Partner Funds",
+      "link": "analytics.json?dimension=dx\\:WTREyXnOI59&dimension=pe\\:LAST_QUARTER&filter=ou\\:LEVEL-1",
+      "chartType": "stackedv"
+    },
+    {
+      "id": "2",
+      "title": "Budget Execution for External Partners Budget",
+      "link": "analytics.json?dimension=dx\\:uIIG1x8zrbl;iZvoVGoaISy;iZvoVGoaISy.dDzmHStw6EV;uIIG1x8zrbl.dDzmHStw6EV&dimension=pe\\:LAST_4_QUARTERS&filter=ou\\:LEVEL-1",
+      "chartType": "bar"
+    },
+    {
+      "id": "1", 
+      "title": "Budget Execution for Ordinary Budget",
+      "link": "analytics.json?dimension=dx\\:MG1pPkPo6HV.dWOGIllm3iY;uIIG1x8zrbl.dDzmHStw6EV&dimension=pe\\:LAST_4_QUARTERS&filter=ou\\:LEVEL-1",
+      "chartType": "bar"
+    }
+  ]
+}

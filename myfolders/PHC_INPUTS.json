@@ -1,0 +1,41 @@
+{
+  "dashlets": [
+  	{
+      "id": "1",
+      "title": "Stock status of tracer items – District Level",
+      "link": "analytics.json?dimension=dx\\:CkZemJwCjaY;lzTZpvSOhpa;B5we1J65yM0;IICFRxhEnPP;S8R92L050Ic;h3Xq3ahEYXY;QrKPP3xvosw;VB9QcuqSwnW;zAFNP5XTkuI;y0B9TaG5LG7;r3xRSOos9g0;WUSUbdHGWZ4&dimension=ou\\:LEVEL-3&filter=pe\\:LAST_YEAR",
+      "chartType": "table"
+    },
+    {
+      "id": "2",
+      "title": "Demand Satisfied: % Hospital Demand Met for Blood (DE N/A)",
+      "link": "analytics.json?dimension=dx\\:psFkwmlxKjI&dimension=pe\\:LAST_4_QUARTERS&filter=ou\\:LEVEL-1",
+      "chartType": "Line"
+    },
+    {
+      "id": "3",
+      "title": "Turnaround Time: % sample results communicated to HFs within accepted turnaround time (DE N/A)",
+      "link": "analytics.json?dimension=dx\\:psFkwmlxKjI&dimension=pe\\:LAST_4_QUARTERS&filter=ou\\:LEVEL-1",
+      "chartType": "Line"
+    },
+        {
+      "id": "4",
+      "title": "Stock status of tracer items – MPPD National Warehouse",
+      "link": "analytics.json?dimension=dx\\:CkZemJwCjaY;lzTZpvSOhpa;B5we1J65yM0;IICFRxhEnPP;S8R92L050Ic;h3Xq3ahEYXY;QrKPP3xvosw;VB9QcuqSwnW;zAFNP5XTkuI;y0B9TaG5LG7;r3xRSOos9g0;WUSUbdHGWZ4&dimension=ou\\:LEVEL-3&filter=pe\\:LAST_YEAR",
+      "chartType": "table"
+    },
+    {
+      "id": "5",
+      "title": "Percent HCs with basic equipment availability for NCDs, This Month (DE N/A)",
+      "link": "analytics.json?dimension=dx\\:wOVeaoBHxk7&dimension=pe\\:LAST_YEAR&filter=ou\\:LEVEL-1",
+      "chartType": "donut"
+    },
+    {
+      "id": "6",
+      "title": "Percent HFs with <5% stock out Vital Drugs, this Month (DE N/A)",
+      "link": "analytics.json?dimension=dx\\:Ok2G7kDN3oI;FkxCuH5DGrA&dimension=pe\\:THIS_MONTH&filter=ou\\:LEVEL-1",
+      "chartType": "Bar"
+    }
+  ]
+}
+

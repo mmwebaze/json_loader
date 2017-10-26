@@ -1,0 +1,133 @@
+{
+	"dashlets": [
+		{
+			"id": "yvEuk6eLckU",
+			"title": "LAMIVUDINE60_STAVUDINE12_NEVIRAPINE100",
+			"currentDataValue": "analytics.json?dimension=dx\\:Bv8Fcexgy14;&dimension=pe\\:201611&filter=ou\\:LEVEL-1",
+			"chartType": "alert",
+			"targetValue": "analytics.json?dimension=dx\\:o7wEzEy58tx&dimension=pe\\:201612&filter=ou\\:LEVEL-1",
+			"performance": "-ve",
+			"iconSet": "YesNo",
+			"description": "Number of days of ARV drugs stock out - Bad"
+		},
+		{
+			"id": "kFomCaLxhpn",
+			"title": "TENOFOVIR 300 Stockout",
+			"currentDataValue": "analytics.json?dimension=dx\\:o7wEzEy58tx;&dimension=pe\\:201612&filter=ou\\:LEVEL-1",
+			"chartType": "alert",
+			"targetValue": "analytics.json?dimension=dx\\:o7wEzEy58tx&dimension=pe\\:201611&filter=ou\\:LEVEL-1",
+			"performance": "-ve",
+			"iconSet": "YesNo",
+			"description": "Number of days of ARV drugs stock out - OK"
+		},
+		{
+			"id": "YcirSY3aAcw",
+			"title": "CTX 120",
+			"currentDataValue": "analytics.json?dimension=dx\\:fw95RE6NzPV;&dimension=pe\\:201612&filter=ou\\:LEVEL-1",
+			"previousDataValue": "analytics.json?dimension=dx\\:fw95RE6NzPV&dimension=pe\\:201611&filter=ou\\:LEVEL-1",
+			"chartType": "alert",
+			"targetValue": "analytics.json?dimension=dx\\:o7wEzEy58tx&dimension=pe\\:201612&filter=ou\\:LEVEL-1",
+			"performance": "-ve",
+			"iconSet": "TREND",
+			"description": "Number of days of ARV drugs stock out - GREEN ASC"
+		},
+		{
+			"id": "PhlhzamjCY8",
+			"title": "ATAZANAVIR 150",
+			"currentDataValue": "analytics.json?dimension=dx\\:T5OjTkYhzda;&dimension=pe\\:201612&filter=ou\\:LEVEL-1",
+			"previousDataValue": "analytics.json?dimension=dx\\:T5OjTkYhzda&dimension=pe\\:201611&filter=ou\\:LEVEL-1",
+			"chartType": "alert",
+			"targetValue": "analytics.json?dimension=dx\\:o7wEzEy58txj&dimension=pe\\:201612&filter=ou\\:LEVEL-1",
+			"performance": "-ve",
+			"iconSet": "TREND",
+			"description": "Number of days of ARV drugs stock out - RED DESC"
+		},
+		{
+			"id": "BI6fmNDxg98",
+			"title": "TENOFOVIR300",
+			"currentDataValue": "analytics.json?dimension=dx\\:o7wEzEy58tx;&dimension=pe\\:201612&filter=ou\\:LEVEL-1",
+			"previousDataValue": "analytics.json?dimension=dx\\:o7wEzEy58tx&dimension=pe\\:201611&filter=ou\\:LEVEL-1",
+			"chartType": "alert",
+			"targetValue": "analytics.json?dimension=dx\\:o7wEzEy58txj&dimension=pe\\:201612&filter=ou\\:LEVEL-1",
+			"performance": "-ve",
+			"iconSet": "TREND",
+			"description": "Number of days of ARV drugs stock out - GREEN DESC"
+		},
+		{
+			"id": "L29PAKwFTaC",
+			"title": "ATAZANAVIR 150",
+			"currentDataValue": "analytics.json?dimension=dx\\:bvsCm8Qg2du;&dimension=pe\\:201612&filter=ou\\:LEVEL-1",
+			"previousDataValue": "analytics.json?dimension=dx\\:bvsCm8Qg2du&dimension=pe\\:201611&filter=ou\\:LEVEL-1",
+			"chartType": "alert",
+			"targetValue": "analytics.json?dimension=dx\\:o7wEzEy58txj&dimension=pe\\:201612&filter=ou\\:LEVEL-1",
+			"performance": "-ve",
+			"iconSet": "TREND",
+			"description": "Number of days of ARV drugs stock out - RED ASC"
+		},
+		{
+			"id": "BI6fmNDxg98",
+			"title": "ANC HIV",
+			"currentDataValue": "analytics.json?dimension=dx\\:oSLpODeimyD;&dimension=pe\\:201612&filter=ou\\:LEVEL-1",
+			"previousDataValue": "analytics.json?dimension=dx\\:oSLpODeimyD&dimension=pe\\:201611&filter=ou\\:LEVEL-1",
+			"chartType": "alert",
+			"targetValue": "analytics.json?dimension=dx\\:epCRVJpzVQh&dimension=pe\\:2015&filter=ou\\:LEVEL-1",
+			"performance": "+ve",
+			"iconSet": "TREND",
+			"description": "Number of patients test for HIV during ANC visits - GREEN DESC"
+		},
+		{
+			"id": "E5Mt9OUclWa",
+			"title": "ANC HIV",
+			"currentDataValue": "analytics.json?dimension=dx\\:N6dQeq2rrBy;&dimension=pe\\:2016&filter=ou\\:LEVEL-1",
+			"previousDataValue": "analytics.json?dimension=dx\\:N6dQeq2rrBy&dimension=pe\\:2015&filter=ou\\:LEVEL-1",
+			"chartType": "alert",
+			"targetValue": "analytics.json?dimension=dx\\:epCRVJpzVQh&dimension=pe\\:2015&filter=ou\\:LEVEL-1",
+			"performance": "+ve",
+			"iconSet": "TREND",
+			"description": "ANC HIV test rate - GREEN ASC"
+		},
+		{
+			"id": "YMvIbVQtb9m",
+			"title": "% Males tested",
+			"currentDataValue": "analytics.json?dimension=dx\\:Zrw0LRTdk3E;&dimension=pe\\:2016&filter=ou\\:LEVEL-1",
+			"previousDataValue": "analytics.json?dimension=dx\\:Zrw0LRTdk3E&dimension=pe\\:2015&filter=ou\\:LEVEL-1",
+			"chartType": "alert",
+			"targetValue": "analytics.json?dimension=dx\\:epCRVJpzVQh&dimension=pe\\:2015&filter=ou\\:LEVEL-1",
+			"performance": "+ve",
+			"iconSet": "TREND",
+			"description": "Percentage of male patients tested for HIV during ANC visits - RED DESC"
+		},
+		{
+			"id": "E1CW7qyJUvu",
+			"title": "% global acute malnutrition",
+			"currentDataValue": "analytics.json?dimension=dx\\:SYRGn8IWKRR;&dimension=pe\\:2016&filter=ou\\:LEVEL-1",
+			"previousDataValue": "analytics.json?dimension=dx\\:SYRGn8IWKRR&dimension=pe\\:2015&filter=ou\\:LEVEL-1",
+			"chartType": "alert",
+			"targetValue": "analytics.json?dimension=dx\\:epCRVJpzVQh&dimension=pe\\:2015&filter=ou\\:LEVEL-1",
+			"performance": "+ve",
+			"iconSet": "TREND",
+			"description": "Percentage of global acute malnutrition (Yellow and red) PHCPI - RED ASC"
+		},
+		
+		{
+			"id": "E8DP82QI8Jw",
+			"title": "TENOFOVIR 300 Stockout",
+			"currentDataValue": "analytics.json?dimension=dx\\:qkidsZvEb54;&dimension=pe\\:LAST_MONTH&filter=ou\\:LEVEL-1",
+			"chartType": "alert",
+			"targetValue": "analytics.json?dimension=dx\\:o7wEzEy58txj&dimension=pe\\:201612&filter=ou\\:LEVEL-1",
+			"performance": "+ve",
+			"iconSet": "YesNo",
+			"description": "Number of days of ARV drugs stock out - OK"
+		},
+		{
+			"id": "qKxNlcimlAF",
+			"title": "LAMIVUDINE60_STAVUDINE12_NEVIRAPINE100",
+			"currentDataValue": "analytics.json?dimension=dx\\:T5OjTkYhzda;&dimension=pe\\:LAST_MONTH&filter=ou\\:LEVEL-1",
+			"chartType": "alert",
+			"targetValue": "analytics.json?dimension=dx\\:o7wEzEy58txj&dimension=pe\\:201612&filter=ou\\:LEVEL-1",
+			"performance": "+ve",
+			"iconSet": "YesNo",
+			"description": "Number of days of ARV drugs stock out - Bad"
+		}
+	]
+}

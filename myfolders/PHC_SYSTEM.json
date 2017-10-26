@@ -1,0 +1,46 @@
+{
+  "dashlets": [
+  	{
+      "id": "3",
+      "title": "Funds Requests LAST Quarter (DE N/A)",
+      "link": "analytics.json?dimension=dx\\:uIIG1x8zrbl.dDzmHStw6EV;iZvoVGoaISy.dDzmHStw6EV&dimension=pe\\:LAST_QUARTER&filter=ou\\:LEVEL-1",
+      "chartType": "Stacked"
+    },
+    {
+      "id": "7",
+      "title": "Timely Funds Transfer LAST Quarter (DE N/A)",
+      "link": "analytics.json?dimension=dx\\:WTREyXnOI59&dimension=pe\\:LAST_QUARTER&filter=ou\\:LEVEL-1",
+      "chartType": "bar"
+    },
+    {
+      "id": "5",
+      "title": "Timely Procurement LAST Quarter (DE N/A)",
+      "link": "analytics.json?dimension=dx\\:WTREyXnOI59;Iv924jF5tHV;svj927QZPsK&dimension=pe\\:LAST_QUARTER&filter=ou\\:LEVEL-1",
+      "chartType": "stacked"
+    },
+    {
+      "id": "6",
+      "title": "Procurement Process LAST Quarter (DE N/A)",
+      "link": "analytics.json?dimension=dx\\:XjrgOKLEQKf.BNTdWBe0N1F;qkTD5eaeST0.BNTdWBe0N1F;S6XOsMg3VWn.BNTdWBe0N1F&dimension=pe\\:LAST_QUARTER&filter=ou\\:LEVEL-1",
+      "chartType": "Stacked"
+    },
+    {
+      "id": "4",
+      "title": "% of Procured goods which are installed, LAST Quarter (DE N/A)",
+      "link": "analytics.json?dimension=dx\\:FzROm0HBcDl&dimension=pe\\:LAST_QUARTER&filter=ou\\:LEVEL-1",
+      "chartType": "donut"
+    },
+    {
+      "id": "2",
+      "title": "Budget Execution for External Partners Budget",
+      "link": "analytics.json?dimension=dx\\:uIIG1x8zrbl;iZvoVGoaISy&dimension=pe\\:LAST_4_QUARTERS&filter=ou\\:LEVEL-1",
+      "chartType": "bar"
+    },
+    {
+      "id": "1",
+      "title": "Budget Execution for Government Budget",
+      "link": "analytics.json?dimension=dx\\:iZvoVGoaISy.dDzmHStw6EV;uIIG1x8zrbl.dDzmHStw6EV&dimension=pe\\:LAST_4_QUARTERS&filter=ou\\:LEVEL-1",
+      "chartType": "bar"
+    }
+  ]
+}
