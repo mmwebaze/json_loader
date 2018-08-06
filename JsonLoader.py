@@ -2,7 +2,7 @@ import requests, json, base64
 import os
 
 status = 200
-selected_secrets = 1
+selected_secrets = 0
 #resource_folder = 'resources'
 resource_folder = 'myfolders'
 
