@@ -9,37 +9,37 @@
 	  {
 	      "id": "3",
 	      "title": "Demand Satisfied: % Hospital Demand Met for Blood (DE N/A)",
-	      "link": "analytics.json?dimension=dx\\:psFkwmlxKjI&dimension=pe\\:LAST_4_QUARTERS&filter=ou\\:LEVEL-1",
+	      "link": "analytics.json?dimension=dx:psFkwmlxKjI&dimension=pe:LAST_4_QUARTERS&filter=ou:LEVEL-1",
 	      "chartType": "Bar"
     	},
     	{
 	      "id": "4",
 	      "title": "Institutional Maternal Mortality Rate(DE N/A)",
-	      "link": "analytics.json?dimension=dx\\:flj6nKxKhf4;XWegCdrhuWn&dimension=pe\\:LAST_5_YEARS&filter=ou\\:LEVEL-1",
+	      "link": "analytics.json?dimension=dx:flj6nKxKhf4;XWegCdrhuWn&dimension=pe:LAST_5_YEARS&filter=ou:LEVEL-1",
 	      "chartType": "Bar"
     	},
     	{
 	      "id": "2",
 	      "title": "HIV outcomes (DE N/A)",
-	      "link": "analytics.json?dimension=dx\\:qcDuvv8bUNf;hDBEi2bF6nS&dimension=pe\\:LAST_5_YEARS&filter=ou\\:LEVEL-1",
+	      "link": "analytics.json?dimension=dx:qcDuvv8bUNf;hDBEi2bF6nS&dimension=pe:LAST_5_YEARS&filter=ou:LEVEL-1",
 	      "chartType": "Line"
     	},
     	{
 	      "id": "5",
 	      "title": "Number of neonatal, under five, and maternal deaths (DE N/A)",
-	      "link": "analytics.json?dimension=dx\\:UipQPqzl8JJ;LwWTBPXHfFR;VfzC8s6TUrs&dimension=pe\\:LAST_12_MONTHS&filter=ou\\:LEVEL-1",
+	      "link": "analytics.json?dimension=dx:UipQPqzl8JJ;LwWTBPXHfFR;VfzC8s6TUrs&dimension=pe:LAST_12_MONTHS&filter=ou:LEVEL-1",
 	      "chartType": "Line"
     	},
     		  {
 	      "id": "6",
 	      "title": "Number of Cancer Deaths",
-	      "link": "analytics.json?dimension=dx\\:ofagyDoyQA2&dimension=pe\\:LAST_12_MONTHS&filter=ou\\:LEVEL-1",
+	      "link": "analytics.json?dimension=dx:ofagyDoyQA2&dimension=pe:LAST_12_MONTHS&filter=ou:LEVEL-1",
 	      "chartType": "Bar"
     	},
     	{
 	      "id": "7",
 	      "title": "Successful Treatment: Treatment success rate for bacteriologically confirmed new and relapse TB cases [IMIHIGO](DE N/A)",
-	      "link": "analytics.json?dimension=dx\\:r4eWBB8byZm&dimension=pe\\:LAST_4_QUARTERS&filter=ou\\:LEVEL-1",
+	      "link": "analytics.json?dimension=dx:r4eWBB8byZm&dimension=pe:LAST_4_QUARTERS&filter=ou:LEVEL-1",
 	      "chartType": "Bar"
     	}
 	]
